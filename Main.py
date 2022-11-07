@@ -70,7 +70,7 @@ except ValueError:
 
 else:
     if p1.num == 5:
-        modul1.textart()
+        modul1.textArt()
     print('\n////////////////////////\n|')
     modul1.rating(p1.num, p1.text)
     print('|\n|///////////////////////\n')
